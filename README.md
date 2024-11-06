@@ -81,6 +81,10 @@ Results saved in text.jpg
 
 Create a `.env` file in the root directory of the project and add your Azure AI Vision API credentials:
 
+Replace <your-azure-ai-endpoint> and <your-azure-ai-key> with your actual Azure endpoint and key.
+
 AI_SERVICE_ENDPOINT= `<your-azure-ai-endpoint>`
 
 AI_SERVICE_KEY= `<your-azure-ai-key>`
+
+Replace `<your-azure-ai-endpoint>` and `<your-azure-ai-key>` with your actual Azure endpoint and key.
