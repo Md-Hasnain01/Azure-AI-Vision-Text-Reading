@@ -70,3 +70,4 @@ Text:
     
 Results saved in text.jpg
 
+![Screenshot 2024-11-06 115738](https://github.com/user-attachments/assets/83622dea-61ae-43ca-ac54-e217a817af64)
