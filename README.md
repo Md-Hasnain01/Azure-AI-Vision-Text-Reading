@@ -19,16 +19,24 @@ This application utilizes the Azure AI Vision API to read text from images, incl
 ## Example Output
 
 1: Use Read API for image (Lincoln.jpg)
+
 2: Read handwriting (Note.jpg)
+
 Any other key to quit
 
 Enter a number: 1
 
 Text:
+
   This is an example of detected text.
+  
    Bounding Polygon: ((x1, y1), (x2, y2), (x3, y3), (x4, y4))
+   
     Word: 'This', Bounding Polygon: ((x1, y1), (x2, y2), (x3, y3), (x4, y4)), Confidence: 0.9999
+    
     Word: 'is', Bounding Polygon: ((x1, y1), (x2, y2), (x3, y3), (x4, y4)), Confidence: 0.9999
+    
     ...
+    
 Results saved in text.jpg
 
