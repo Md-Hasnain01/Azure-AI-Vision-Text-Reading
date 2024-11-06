@@ -71,3 +71,5 @@ Text:
 Results saved in text.jpg
 
 ![Screenshot 2024-11-06 115738](https://github.com/user-attachments/assets/83622dea-61ae-43ca-ac54-e217a817af64)
+
+![Screenshot 2024-11-06 114920](https://github.com/user-attachments/assets/21c1a2e3-74dd-4133-a6b6-6c929015cdf6)
