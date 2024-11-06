@@ -88,3 +88,8 @@ AI_SERVICE_ENDPOINT= `<your-azure-ai-endpoint>`
 AI_SERVICE_KEY= `<your-azure-ai-key>`
 
 Replace `<your-azure-ai-endpoint>` and `<your-azure-ai-key>` with your actual Azure endpoint and key.
+
+## Acknowledgments
+- Azure AI Vision API
+- Python Imaging Library (PIL)
+- Matplotlib
