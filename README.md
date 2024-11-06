@@ -47,3 +47,26 @@ Results saved in text.jpg
 ![Screenshot 2024-11-06 115018](https://github.com/user-attachments/assets/21fba4f7-99f4-4cd2-90a6-35fc501fa22c)
 
 ![Screenshot 2024-11-06 115533](https://github.com/user-attachments/assets/1c6482fe-a2e6-475a-a7d7-9ca33c87f14b)
+
+1: Use Read API for image (Lincoln.jpg)
+
+2: Read handwriting (Note.jpg)
+
+Any other key to quit
+
+Enter a number: 2
+
+Text:
+
+  This is an example of detected text.
+  
+   Bounding Polygon: ((x1, y1), (x2, y2), (x3, y3), (x4, y4))
+   
+    Word: 'This', Bounding Polygon: ((x1, y1), (x2, y2), (x3, y3), (x4, y4)), Confidence: 0.9999
+    
+    Word: 'is', Bounding Polygon: ((x1, y1), (x2, y2), (x3, y3), (x4, y4)), Confidence: 0.9999
+    
+    ...
+    
+Results saved in text.jpg
+
