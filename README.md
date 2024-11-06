@@ -75,3 +75,12 @@ Results saved in text.jpg
 ![Screenshot 2024-11-06 114920](https://github.com/user-attachments/assets/21c1a2e3-74dd-4133-a6b6-6c929015cdf6)
 
 ![Screenshot 2024-11-06 115605](https://github.com/user-attachments/assets/bceaf1c7-640d-45c8-b96b-8161e9f15553)
+
+
+## Set up environment variables:
+
+Create a `.env` file in the root directory of the project and add your Azure AI Vision API credentials:
+
+AI_SERVICE_ENDPOINT= `<your-azure-ai-endpoint>`
+
+AI_SERVICE_KEY= `<your-azure-ai-key>`
