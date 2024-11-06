@@ -45,3 +45,5 @@ Results saved in text.jpg
 
 
 ![Screenshot 2024-11-06 115018](https://github.com/user-attachments/assets/21fba4f7-99f4-4cd2-90a6-35fc501fa22c)
+
+![Screenshot 2024-11-06 115533](https://github.com/user-attachments/assets/1c6482fe-a2e6-475a-a7d7-9ca33c87f14b)
